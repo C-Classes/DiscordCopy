@@ -1,0 +1,10 @@
+D:\Informatica\C#\DiscordWalmart\DiscordWalmart\bin\Debug\DiscordWalmart.exe.config
+D:\Informatica\C#\DiscordWalmart\DiscordWalmart\bin\Debug\DiscordWalmart.exe
+D:\Informatica\C#\DiscordWalmart\DiscordWalmart\bin\Debug\DiscordWalmart.pdb
+D:\Informatica\C#\DiscordWalmart\DiscordWalmart\obj\Debug\DiscordWalmart.csprojAssemblyReference.cache
+D:\Informatica\C#\DiscordWalmart\DiscordWalmart\obj\Debug\DiscordWalmart.Properties.Resources.resources
+D:\Informatica\C#\DiscordWalmart\DiscordWalmart\obj\Debug\DiscordWalmart.csproj.GenerateResource.cache
+D:\Informatica\C#\DiscordWalmart\DiscordWalmart\obj\Debug\DiscordWalmart.csproj.CoreCompileInputs.cache
+D:\Informatica\C#\DiscordWalmart\DiscordWalmart\obj\Debug\DiscordWalmart.exe
+D:\Informatica\C#\DiscordWalmart\DiscordWalmart\obj\Debug\DiscordWalmart.pdb
+D:\Informatica\C#\DiscordWalmart\DiscordWalmart\obj\Debug\DiscordWalmart.FormTest.resources
